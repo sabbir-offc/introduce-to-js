@@ -1,0 +1,12 @@
+console.log(5555);
+var age = 17;
+var price = 70;
+var temperature = 25;
+var wet = 60;
+var width =  80;
+var student = 900;
+var name = "sabbir howlader" ;
+var speacial = "Some one special" ;
+var isYourPen = false ;
+var isYouFail = true ;
+var super = 22 ;
